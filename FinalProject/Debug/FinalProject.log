@@ -1,0 +1,36 @@
+﻿  Vehicle.cpp
+  main.cpp
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(26): warning C4091: 'typedef ': ignored on left of 'Person' when no variable is declared
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(33): warning C4091: 'typedef ': ignored on left of 'Car' when no variable is declared
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(142): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(160): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(170): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(247): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(259): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(286): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(301): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(315): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(343): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(354): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(361): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(400): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\school\intro to programming ii\finalproject\finalproject\finalproject\main.cpp(429): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Character.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rlgl.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rlgl.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\raylib.pdb'; linking object as if no debug info
+  FinalProject.vcxproj -> D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> D:\Documents\School\Intro To Programming II\FinalProject\FinalProject\Debug\FinalProject.pdb (Full PDB)
